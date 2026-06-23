@@ -20,7 +20,9 @@
   <Folder Name="/2.08 Generics/" />
   <Folder Name="/2.09 Iterators/" />
   <Folder Name="/2.10 Collections/" />
-  <Folder Name="/2.11 Delegates &amp; Lambdas/" />
+  <Folder Name="/2.11 Delegates &amp; Lambdas/">
+    <Project Path="2. How To Declare, Instatiate, And Use a Delegate/2. How To Declare, Instatiate, And Use a Delegate.csproj" Id="2825aff1-320a-4c55-8ed9-3c3cdf982f31" />
+  </Folder>
   <Folder Name="/2.12 Events/" />
   <Folder Name="/2.13 LINQ/" />
 </Solution>
