@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/1.01 Integers/" />
+  <Folder Name="/1.02 Static Methods/" />
+  <Folder Name="/1.03 Bools and Logical Operators/" />
+  <Folder Name="/1.04 Conditional Statements (if)/" />
+  <Folder Name="/1.05 Real Numbers/" />
+  <Folder Name="/1.06 Conditional Statements (if-else)/" />
+  <Folder Name="/1.07 Exceptions/" />
+  <Folder Name="/1.08 Iteration Statements (while)/" />
+  <Folder Name="/1.09 Iteration Statements (for, do..while)/" />
+  <Folder Name="/1.10 Arrays/" />
+  <Folder Name="/1.11 Strings/" />
+  <Folder Name="/2.01 Classes And Objects/" />
+  <Folder Name="/2.02 Structures/" />
+  <Folder Name="/2.03 Object-Oriented Programming/" />
+  <Folder Name="/2.04 Interfaces/" />
+  <Folder Name="/2.05 Inheritance/" />
+  <Folder Name="/2.06 Abstract Classes/" />
+  <Folder Name="/2.07 Type Conversions/" />
+  <Folder Name="/2.08 Generics/" />
+  <Folder Name="/2.09 Iterators/" />
+  <Folder Name="/2.10 Collections/" />
+  <Folder Name="/2.11 Delegates &amp; Lambdas/" />
+  <Folder Name="/2.12 Events/" />
+  <Folder Name="/2.13 LINQ/" />
+</Solution>
